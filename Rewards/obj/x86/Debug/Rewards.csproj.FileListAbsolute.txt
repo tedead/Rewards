@@ -1,0 +1,24 @@
+C:\cs projects\Rewards\Rewards\bin\Debug\Rewards.exe
+C:\cs projects\Rewards\Rewards\bin\Debug\Rewards.pdb
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.Form1.resources
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.Properties.Resources.resources
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csproj.GenerateResource.Cache
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.exe
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.pdb
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Interop.WMPLib.dll
+C:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csproj.ResolveComReference.cache
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csprojAssemblyReference.cache
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Interop.WMPLib.dll
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csproj.ResolveComReference.cache
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.Form1.resources
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.Properties.Resources.resources
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csproj.GenerateResource.cache
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.csproj.CoreCompileInputs.cache
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.exe
+E:\cs projects\Rewards\Rewards\obj\x86\Debug\Rewards.pdb
+E:\cs projects\Rewards\Rewards\bin\Debug\Rewards.exe
+E:\cs projects\Rewards\Rewards\bin\Debug\Rewards.pdb
+E:\cs projects\Rewards\Rewards\bin\Debug\sounds\Five coins.wav
+E:\cs projects\Rewards\Rewards\bin\Debug\sounds\One coin.wav
+E:\cs projects\Rewards\Rewards\bin\Debug\sounds\Ten coins.wav
+E:\cs projects\Rewards\Rewards\bin\Debug\sounds\Two coins.wav
